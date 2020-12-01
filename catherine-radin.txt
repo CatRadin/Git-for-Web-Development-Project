@@ -1,4 +1,6 @@
-    1. What is Semantic HTML? 
+https://codepen.io/CatRadin/pen/XWjbvzB   
+
+ 1. What is Semantic HTML? 
 
 semantic HTML is an element that describes it meaning to both the browers and developer. An example would be <heading> as it more desciptive then say <div>.
 
