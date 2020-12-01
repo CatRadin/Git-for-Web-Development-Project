@@ -188,3 +188,4 @@ All HTML elements are considerd boxs. It consists of: margins, borders, padding,
 
 The "FIX" is
 box-sizing: border-box;
+This helps because it actually becomes the size you make it.
